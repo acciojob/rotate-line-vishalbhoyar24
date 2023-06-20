@@ -1,4 +1,3 @@
-//your JS code here. If required.
 let body = document.body;
 let line = document.querySelector("#line");
 line.style.animation = "spin 2s linear infinite";
