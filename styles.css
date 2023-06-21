@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+/*  your css code here. If applicable */
+body{
+	position : relative;
+}
+
+#line{
+    width: 200px;
+    height: 2px;
+	position : absolute;
+	top : 200px;
+	left : 200px;
+    background-color: black;
+}
